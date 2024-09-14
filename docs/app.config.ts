@@ -1,7 +1,7 @@
 // https://github.com/nuxt-themes/docus/blob/main/nuxt.schema.ts
 export default defineAppConfig({
   docus: {
-    title: 'Muhammad Azlan Shah',
+    title: 'MS',
     description: 'Documentation for my projects.',
     image: 'https://avatars.githubusercontent.com/u/80623330?v=4',
     socials: {
